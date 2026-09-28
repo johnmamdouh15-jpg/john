@@ -1,0 +1,100 @@
+001. What Is Python & Why Learn It?
+002. Install Python + VS Code
+003. Your First Python Program
+004. print()
+005. Comments
+006. Variables
+007. Data Types
+008. Numbers & Math
+009. Strings
+010. String Methods
+011. User Input
+012. Type Conversion
+013. Comparison Operators
+014. Logical Operators
+015. Revision + Mini Exam #1
+016. if Statements
+017. elif and else
+018. Nested Conditions
+019. Conditional Practice
+020. for Loops
+021. range()
+022. while Loops
+023. break
+024. continue
+025. Nested Loops
+026. Loop Challenges
+027. Common Loop Mistakes
+028. Practical Loop Project
+029. Revision: Decisions & Loops
+030. Exam #2: Decisions & Loops
+031. Lists
+032. List Indexing
+033. List Slicing
+034. List Methods
+035. Looping Lists
+036. List Challenges
+037. Tuples
+038. Sets
+039. Dictionaries
+040. Dictionary Methods
+041. Looping Dictionaries
+042. Nested Data
+043. Strings + Collections
+044. List Comprehensions
+045. Dictionary Comprehensions
+046. Choosing Data Structures
+047. Collection Challenges
+048. Practical Collections Project
+049. Revision: Collections
+050. Exam #3: Collections
+051. Functions
+052. Creating Functions
+053. Parameters
+054. return
+055. Default Arguments
+056. Multiple Arguments
+057. Scope
+058. *args
+059. **kwargs
+060. lambda
+061. Modules
+062. Importing Modules
+063. Standard Library
+064. Useful Utility
+065. Revision + Exam #4
+066. Reading Files
+067. Writing Files
+068. CSV
+069. Exceptions
+070. try/except
+071. finally
+072. Debugging
+073. OOP
+074. Classes
+075. Objects
+076. __init__
+077. Instance Methods
+078. Inheritance
+079. Encapsulation
+080. OOP Project + Revision
+081. Iterators
+082. Generators
+083. Decorators
+084. map
+085. filter
+086. zip
+087. enumerate
+088. Advanced Comprehensions
+089. Project Architecture
+090. Advanced Exam
+091. Number Guessing Game
+092. To-Do List
+093. File Organizer
+094. Quiz Game
+095. Expense Tracker
+096. Complete Python Revision
+097. Beginner → Advanced Challenge
+098. Full Python Practice Exam
+099. Final Python Project
+100. You Completed Python — Final Challenge
