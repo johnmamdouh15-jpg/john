@@ -80,3 +80,5 @@ jobs:
           path: generator/output/
           if-no-files-found: warn
           retention-days: 7
+
+# trigger
