@@ -41,6 +41,11 @@ jobs:
       - name: Clone video generator
         run: git clone --depth 1 https://github.com/itsPremkumar/Automated-Video-Generator.git generator
 
+      - name: Install system and Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r generator/requirements.txt
+
       - name: Install generator
         working-directory: generator
         run: npm ci
@@ -60,17 +65,29 @@ jobs:
           print("Prepared", batch, [x["id"] for x in chunk])
           PY
 
+      - name: Run generator diagnostics
+        working-directory: generator
+        env:
+          TTS_PROVIDER: edge-tts
+          OPENVERSE_ENABLED: "true"
+        run: npm run doctor
+
       - name: Generate videos
         working-directory: generator
+        env:
+          TTS_PROVIDER: edge-tts
+          OPENVERSE_ENABLED: "true"
         run: npm run batch -- --file input/scripts/input-scripts.json
 
-      - name: Show generated files
+      - name: Verify generated MP4s
         if: always()
         working-directory: generator
         run: |
           echo "MP4 count:"
           find output -type f -iname "*.mp4" | wc -l || true
           find output -type f -iname "*.mp4" | sort || true
+          echo "File sizes:"
+          find output -type f -iname "*.mp4" -printf '%p %s bytes\n' | sort || true
 
       - name: Upload batch
         if: always()
