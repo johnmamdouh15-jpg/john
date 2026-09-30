@@ -1,0 +1,82 @@
+name: Generate Python Course Videos
+
+on:
+  push:
+    paths:
+      - ".github/workflows/generate-python.yml"
+      - "input/scripts/input-scripts.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    name: Batch ${{ matrix.batch }} / 10
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        batch: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+    steps:
+      - name: Checkout course files
+        uses: actions/checkout@v4
+
+      - name: Validate course manifest
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          p="input/scripts/input-scripts.json"
+          data=json.load(open(p, encoding="utf-8"))
+          assert len(data) == 100, f"Expected 100 jobs, got {len(data)}"
+          ids=[x["id"] for x in data]
+          assert ids == [f"PY-{i:03d}" for i in range(1,101)], "IDs are not PY-001..PY-100"
+          print("Manifest OK:", len(data), "jobs")
+          PY
+
+      - name: Clone video generator
+        run: git clone --depth 1 https://github.com/itsPremkumar/Automated-Video-Generator.git generator
+
+      - name: Install generator
+        working-directory: generator
+        run: npm ci
+
+      - name: Prepare 10-video batch
+        env:
+          BATCH: ${{ matrix.batch }}
+        run: |
+          python - <<'PY'
+          import json, os
+          src=json.load(open("input/scripts/input-scripts.json", encoding="utf-8"))
+          batch=int(os.environ["BATCH"])
+          start=(batch-1)*10
+          chunk=src[start:start+10]
+          out="generator/input/scripts/input-scripts.json"
+          json.dump(chunk, open(out,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
+          print("Prepared", batch, [x["id"] for x in chunk])
+          PY
+
+      - name: Generate videos
+        working-directory: generator
+        run: npm run batch -- --file input/scripts/input-scripts.json
+
+      - name: Show generated files
+        if: always()
+        working-directory: generator
+        run: |
+          echo "MP4 count:"
+          find output -type f -iname "*.mp4" | wc -l || true
+          find output -type f -iname "*.mp4" | sort || true
+
+      - name: Upload batch
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: python-videos-batch-${{ matrix.batch }}
+          path: generator/output/
+          if-no-files-found: warn
+          retention-days: 7
