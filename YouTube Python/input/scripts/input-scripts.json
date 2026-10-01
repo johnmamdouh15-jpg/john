@@ -1,0 +1,1514 @@
+{
+  "course": "YouTube Python",
+  "description": "100-video Python Basics course for complete beginners. Simple English, step-by-step teaching, visible VS Code-style code, AI narration, captions, challenge, answer, recap, encouragement, and course progress.",
+  "rules": {
+    "target_duration": "2-5 minutes",
+    "hard_max_duration": "10 minutes",
+    "aspect_ratio": "16:9",
+    "voice": "consistent male AI voice",
+    "progress": "Every video shows X/100 and X% complete. Video 100 ends with 100/100 and the beginning-of-the-journey message.",
+    "style": "clean educational VS Code-style coding visuals; readable code; simple English; no camera; no watermark"
+  },
+  "lessons": [
+    {
+      "id": "PY-001",
+      "title": "What Is Python & Why Learn It?",
+      "script": "Welcome to Python Basics, lesson 1: What Is Python & Why Learn It?.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nprint(\"Hello, world!\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: What Is Python & Why Learn It? is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n1 / 100 — 1% COMPLETE\n\nGreat work. You are now 1% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "1/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-002",
+      "title": "Install Python + VS Code",
+      "script": "Welcome to Python Basics, lesson 2: Install Python + VS Code.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Install Python, then create hello.py\nprint(\"Hello, Python!\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Install Python + VS Code is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n2 / 100 — 2% COMPLETE\n\nGreat work. You are now 2% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "2/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-003",
+      "title": "Your First Python Program",
+      "script": "Welcome to Python Basics, lesson 3: Your First Python Program.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nname = \"John\"\nprint(\"Hello,\", name)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Your First Python Program is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n3 / 100 — 3% COMPLETE\n\nGreat work. You are now 3% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "3/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-004",
+      "title": "print()",
+      "script": "Welcome to Python Basics, lesson 4: print().\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nprint(\"Hello, world!\")\nprint(2 + 3)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: print() is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n4 / 100 — 4% COMPLETE\n\nGreat work. You are now 4% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "4/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-005",
+      "title": "Comments",
+      "script": "Welcome to Python Basics, lesson 5: Comments.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# This line is a comment\nprint(\"Comments explain code.\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Comments is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n5 / 100 — 5% COMPLETE\n\nGreat work. You are now 5% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "5/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-006",
+      "title": "Variables",
+      "script": "Welcome to Python Basics, lesson 6: Variables.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nname = \"John\"\nage = 17\nprint(name, age)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Variables is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n6 / 100 — 6% COMPLETE\n\nGreat work. You are now 6% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "6/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-007",
+      "title": "Data Types",
+      "script": "Welcome to Python Basics, lesson 7: Data Types.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nname = \"John\"\nage = 17\nheight = 1.75\nis_student = True\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Data Types is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n7 / 100 — 7% COMPLETE\n\nGreat work. You are now 7% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "7/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-008",
+      "title": "Numbers & Math",
+      "script": "Welcome to Python Basics, lesson 8: Numbers & Math.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nprint(10 + 5)\nprint(10 - 5)\nprint(10 * 5)\nprint(10 / 5)\nprint(10 ** 2)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Numbers & Math is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n8 / 100 — 8% COMPLETE\n\nGreat work. You are now 8% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "8/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-009",
+      "title": "Strings",
+      "script": "Welcome to Python Basics, lesson 9: Strings.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nmessage = \"Python is fun\"\nprint(message)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Strings is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n9 / 100 — 9% COMPLETE\n\nGreat work. You are now 9% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "9/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-010",
+      "title": "String Methods",
+      "script": "Welcome to Python Basics, lesson 10: String Methods.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntext = \"python\"\nprint(text.upper())\nprint(text.capitalize())\nprint(text.replace(\"p\", \"P\"))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: String Methods is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n10 / 100 — 10% COMPLETE\n\nGreat work. You are now 10% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "10/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-011",
+      "title": "User Input",
+      "script": "Welcome to Python Basics, lesson 11: User Input.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nname = input(\"What is your name? \")\nprint(\"Hello,\", name)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: User Input is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n11 / 100 — 11% COMPLETE\n\nGreat work. You are now 11% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "11/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-012",
+      "title": "Type Conversion",
+      "script": "Welcome to Python Basics, lesson 12: Type Conversion.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nage = \"17\"\nage = int(age)\nprint(age + 1)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Type Conversion is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n12 / 100 — 12% COMPLETE\n\nGreat work. You are now 12% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "12/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-013",
+      "title": "Comparison Operators",
+      "script": "Welcome to Python Basics, lesson 13: Comparison Operators.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nage = 17\nprint(age >= 18)\nprint(age == 17)\nprint(age != 20)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Comparison Operators is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n13 / 100 — 13% COMPLETE\n\nGreat work. You are now 13% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "13/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-014",
+      "title": "Logical Operators",
+      "script": "Welcome to Python Basics, lesson 14: Logical Operators.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nage = 17\nhas_id = True\nprint(age >= 18 and has_id)\nprint(age >= 18 or has_id)\nprint(not has_id)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Logical Operators is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n14 / 100 — 14% COMPLETE\n\nGreat work. You are now 14% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "14/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-015",
+      "title": "Revision + Mini Exam #1",
+      "script": "Welcome to Python Basics, lesson 15: Revision + Mini Exam #1.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nscore = 8\nprint(\"Score:\", score)\n# Try changing values and predict the result.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Revision + Mini Exam #1 is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n15 / 100 — 15% COMPLETE\n\nGreat work. You are now 15% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "15/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-016",
+      "title": "if Statements",
+      "script": "Welcome to Python Basics, lesson 16: if Statements.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nage = 20\nif age >= 18:\n    print(\"Adult\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: if Statements is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n16 / 100 — 16% COMPLETE\n\nGreat work. You are now 16% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "16/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-017",
+      "title": "elif and else",
+      "script": "Welcome to Python Basics, lesson 17: elif and else.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nscore = 85\nif score >= 90:\n    print(\"A\")\nelif score >= 80:\n    print(\"B\")\nelse:\n    print(\"Keep practicing\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: elif and else is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n17 / 100 — 17% COMPLETE\n\nGreat work. You are now 17% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "17/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-018",
+      "title": "Nested Conditions",
+      "script": "Welcome to Python Basics, lesson 18: Nested Conditions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nage = 20\nhas_ticket = True\nif age >= 18:\n    if has_ticket:\n        print(\"Enter\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Nested Conditions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n18 / 100 — 18% COMPLETE\n\nGreat work. You are now 18% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "18/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-019",
+      "title": "Conditional Practice",
+      "script": "Welcome to Python Basics, lesson 19: Conditional Practice.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntemperature = 30\nif temperature > 25:\n    print(\"It is warm\")\nelse:\n    print(\"It is cool\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Conditional Practice is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n19 / 100 — 19% COMPLETE\n\nGreat work. You are now 19% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "19/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-020",
+      "title": "for Loops",
+      "script": "Welcome to Python Basics, lesson 20: for Loops.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor i in range(5):\n    print(i)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: for Loops is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n20 / 100 — 20% COMPLETE\n\nGreat work. You are now 20% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "20/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-021",
+      "title": "range()",
+      "script": "Welcome to Python Basics, lesson 21: range().\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor i in range(1, 6):\n    print(i)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: range() is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n21 / 100 — 21% COMPLETE\n\nGreat work. You are now 21% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "21/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-022",
+      "title": "while Loops",
+      "script": "Welcome to Python Basics, lesson 22: while Loops.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ncount = 1\nwhile count <= 5:\n    print(count)\n    count += 1\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: while Loops is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n22 / 100 — 22% COMPLETE\n\nGreat work. You are now 22% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "22/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-023",
+      "title": "break",
+      "script": "Welcome to Python Basics, lesson 23: break.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor i in range(10):\n    if i == 5:\n        break\n    print(i)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: break is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n23 / 100 — 23% COMPLETE\n\nGreat work. You are now 23% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "23/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-024",
+      "title": "continue",
+      "script": "Welcome to Python Basics, lesson 24: continue.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor i in range(6):\n    if i == 3:\n        continue\n    print(i)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: continue is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n24 / 100 — 24% COMPLETE\n\nGreat work. You are now 24% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "24/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-025",
+      "title": "Nested Loops",
+      "script": "Welcome to Python Basics, lesson 25: Nested Loops.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor row in range(3):\n    for col in range(3):\n        print(row, col)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Nested Loops is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n25 / 100 — 25% COMPLETE\n\nGreat work. You are now 25% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "25/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-026",
+      "title": "Loop Challenges",
+      "script": "Welcome to Python Basics, lesson 26: Loop Challenges.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfor i in range(1, 11):\n    print(i * 2)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Loop Challenges is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n26 / 100 — 26% COMPLETE\n\nGreat work. You are now 26% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "26/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-027",
+      "title": "Common Loop Mistakes",
+      "script": "Welcome to Python Basics, lesson 27: Common Loop Mistakes.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Common mistake: forgetting to update a while-loop variable\ncount = 1\nwhile count <= 3:\n    print(count)\n    count += 1\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Common Loop Mistakes is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n27 / 100 — 27% COMPLETE\n\nGreat work. You are now 27% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "27/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-028",
+      "title": "Practical Loop Project",
+      "script": "Welcome to Python Basics, lesson 28: Practical Loop Project.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntotal = 0\nfor price in [10, 20, 30]:\n    total += price\nprint(total)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Practical Loop Project is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n28 / 100 — 28% COMPLETE\n\nGreat work. You are now 28% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "28/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-029",
+      "title": "Revision: Decisions & Loops",
+      "script": "Welcome to Python Basics, lesson 29: Revision: Decisions & Loops.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Review: conditions choose; loops repeat.\nfor i in range(3):\n    if i % 2 == 0:\n        print(i)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Revision: Decisions & Loops is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n29 / 100 — 29% COMPLETE\n\nGreat work. You are now 29% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "29/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-030",
+      "title": "Exam #2: Decisions & Loops",
+      "script": "Welcome to Python Basics, lesson 30: Exam #2: Decisions & Loops.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nscore = 0\nfor i in range(5):\n    answer = input(\"Type yes: \")\n    if answer == \"yes\":\n        score += 1\nprint(\"Score:\", score)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Exam #2: Decisions & Loops is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n30 / 100 — 30% COMPLETE\n\nGreat work. You are now 30% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "30/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-031",
+      "title": "Lists",
+      "script": "Welcome to Python Basics, lesson 31: Lists.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfruits = [\"apple\", \"banana\", \"orange\"]\nprint(fruits)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Lists is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n31 / 100 — 31% COMPLETE\n\nGreat work. You are now 31% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "31/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-032",
+      "title": "List Indexing",
+      "script": "Welcome to Python Basics, lesson 32: List Indexing.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfruits = [\"apple\", \"banana\", \"orange\"]\nprint(fruits[0])\nprint(fruits[-1])\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: List Indexing is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n32 / 100 — 32% COMPLETE\n\nGreat work. You are now 32% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "32/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-033",
+      "title": "List Slicing",
+      "script": "Welcome to Python Basics, lesson 33: List Slicing.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [0, 1, 2, 3, 4, 5]\nprint(numbers[1:4])\nprint(numbers[:3])\nprint(numbers[3:])\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: List Slicing is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n33 / 100 — 33% COMPLETE\n\nGreat work. You are now 33% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "33/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-034",
+      "title": "List Methods",
+      "script": "Welcome to Python Basics, lesson 34: List Methods.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfruits = [\"apple\", \"banana\"]\nfruits.append(\"orange\")\nfruits.remove(\"banana\")\nprint(fruits)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: List Methods is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n34 / 100 — 34% COMPLETE\n\nGreat work. You are now 34% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "34/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-035",
+      "title": "Looping Lists",
+      "script": "Welcome to Python Basics, lesson 35: Looping Lists.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfruits = [\"apple\", \"banana\", \"orange\"]\nfor fruit in fruits:\n    print(fruit)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Looping Lists is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n35 / 100 — 35% COMPLETE\n\nGreat work. You are now 35% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "35/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-036",
+      "title": "List Challenges",
+      "script": "Welcome to Python Basics, lesson 36: List Challenges.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [3, 8, 2, 9]\nprint(max(numbers))\nprint(min(numbers))\nprint(sum(numbers))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: List Challenges is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n36 / 100 — 36% COMPLETE\n\nGreat work. You are now 36% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "36/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-037",
+      "title": "Tuples",
+      "script": "Welcome to Python Basics, lesson 37: Tuples.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\npoint = (10, 20)\nprint(point[0])\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Tuples is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n37 / 100 — 37% COMPLETE\n\nGreat work. You are now 37% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "37/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-038",
+      "title": "Sets",
+      "script": "Welcome to Python Basics, lesson 38: Sets.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ncolors = {\"red\", \"blue\", \"red\"}\nprint(colors)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Sets is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n38 / 100 — 38% COMPLETE\n\nGreat work. You are now 38% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "38/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-039",
+      "title": "Dictionaries",
+      "script": "Welcome to Python Basics, lesson 39: Dictionaries.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nperson = {\"name\": \"John\", \"age\": 17}\nprint(person[\"name\"])\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Dictionaries is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n39 / 100 — 39% COMPLETE\n\nGreat work. You are now 39% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "39/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-040",
+      "title": "Dictionary Methods",
+      "script": "Welcome to Python Basics, lesson 40: Dictionary Methods.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nperson = {\"name\": \"John\", \"age\": 17}\nprint(person.keys())\nprint(person.values())\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Dictionary Methods is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n40 / 100 — 40% COMPLETE\n\nGreat work. You are now 40% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "40/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-041",
+      "title": "Looping Dictionaries",
+      "script": "Welcome to Python Basics, lesson 41: Looping Dictionaries.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nperson = {\"name\": \"John\", \"age\": 17}\nfor key, value in person.items():\n    print(key, value)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Looping Dictionaries is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n41 / 100 — 41% COMPLETE\n\nGreat work. You are now 41% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "41/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-042",
+      "title": "Nested Data",
+      "script": "Welcome to Python Basics, lesson 42: Nested Data.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nstudents = [\n    {\"name\": \"Ali\", \"score\": 90},\n    {\"name\": \"Mona\", \"score\": 85}\n]\nprint(students[0][\"name\"])\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Nested Data is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n42 / 100 — 42% COMPLETE\n\nGreat work. You are now 42% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "42/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-043",
+      "title": "Strings + Collections",
+      "script": "Welcome to Python Basics, lesson 43: Strings + Collections.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nwords = [\"hello\", \"python\"]\nfor word in words:\n    print(word.upper())\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Strings + Collections is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n43 / 100 — 43% COMPLETE\n\nGreat work. You are now 43% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "43/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-044",
+      "title": "List Comprehensions",
+      "script": "Welcome to Python Basics, lesson 44: List Comprehensions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [1, 2, 3, 4, 5]\nsquares = [n * n for n in numbers]\nprint(squares)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: List Comprehensions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n44 / 100 — 44% COMPLETE\n\nGreat work. You are now 44% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "44/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-045",
+      "title": "Dictionary Comprehensions",
+      "script": "Welcome to Python Basics, lesson 45: Dictionary Comprehensions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\npeople = [\"Ali\", \"Mona\"]\nscores = [90, 85]\nresult = {name: score for name, score in zip(people, scores)}\nprint(result)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Dictionary Comprehensions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n45 / 100 — 45% COMPLETE\n\nGreat work. You are now 45% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "45/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-046",
+      "title": "Choosing Data Structures",
+      "script": "Welcome to Python Basics, lesson 46: Choosing Data Structures.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# List: ordered, changeable\n# Tuple: ordered, fixed\n# Set: unique values\n# Dictionary: key/value pairs\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Choosing Data Structures is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n46 / 100 — 46% COMPLETE\n\nGreat work. You are now 46% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "46/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-047",
+      "title": "Collection Challenges",
+      "script": "Welcome to Python Basics, lesson 47: Collection Challenges.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [4, 7, 2, 9]\neven = [n for n in numbers if n % 2 == 0]\nprint(even)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Collection Challenges is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n47 / 100 — 47% COMPLETE\n\nGreat work. You are now 47% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "47/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-048",
+      "title": "Practical Collections Project",
+      "script": "Welcome to Python Basics, lesson 48: Practical Collections Project.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ncart = [10, 20, 30]\ntotal = sum(cart)\nprint(\"Total:\", total)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Practical Collections Project is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n48 / 100 — 48% COMPLETE\n\nGreat work. You are now 48% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "48/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-049",
+      "title": "Revision: Collections",
+      "script": "Welcome to Python Basics, lesson 49: Revision: Collections.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Review collections by choosing the right structure for each task.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Revision: Collections is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n49 / 100 — 49% COMPLETE\n\nGreat work. You are now 49% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "49/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-050",
+      "title": "Exam #3: Collections",
+      "script": "Welcome to Python Basics, lesson 50: Exam #3: Collections.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nscores = {\"Ali\": 90, \"Mona\": 85}\nprint(max(scores.values()))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Exam #3: Collections is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n50 / 100 — 50% COMPLETE\n\nGreat work. You are now 50% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "50/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-051",
+      "title": "Functions",
+      "script": "Welcome to Python Basics, lesson 51: Functions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef greet():\n    print(\"Hello!\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Functions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n51 / 100 — 51% COMPLETE\n\nGreat work. You are now 51% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "51/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-052",
+      "title": "Creating Functions",
+      "script": "Welcome to Python Basics, lesson 52: Creating Functions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef greet():\n    print(\"Hello!\")\ngreet()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Creating Functions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n52 / 100 — 52% COMPLETE\n\nGreat work. You are now 52% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "52/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-053",
+      "title": "Parameters",
+      "script": "Welcome to Python Basics, lesson 53: Parameters.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef greet(name):\n    print(\"Hello,\", name)\ngreet(\"John\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Parameters is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n53 / 100 — 53% COMPLETE\n\nGreat work. You are now 53% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "53/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-054",
+      "title": "return",
+      "script": "Welcome to Python Basics, lesson 54: return.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef add(a, b):\n    return a + b\nprint(add(2, 3))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: return is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n54 / 100 — 54% COMPLETE\n\nGreat work. You are now 54% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "54/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-055",
+      "title": "Default Arguments",
+      "script": "Welcome to Python Basics, lesson 55: Default Arguments.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef greet(name=\"friend\"):\n    print(\"Hello,\", name)\ngreet()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Default Arguments is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n55 / 100 — 55% COMPLETE\n\nGreat work. You are now 55% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "55/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-056",
+      "title": "Multiple Arguments",
+      "script": "Welcome to Python Basics, lesson 56: Multiple Arguments.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef add(a, b, c):\n    return a + b + c\nprint(add(1, 2, 3))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Multiple Arguments is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n56 / 100 — 56% COMPLETE\n\nGreat work. You are now 56% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "56/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-057",
+      "title": "Scope",
+      "script": "Welcome to Python Basics, lesson 57: Scope.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nname = \"global\"\ndef show():\n    name = \"local\"\n    print(name)\nshow()\nprint(name)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Scope is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n57 / 100 — 57% COMPLETE\n\nGreat work. You are now 57% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "57/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-058",
+      "title": "*args",
+      "script": "Welcome to Python Basics, lesson 58: *args.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef total(*numbers):\n    return sum(numbers)\nprint(total(1, 2, 3, 4))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: *args is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n58 / 100 — 58% COMPLETE\n\nGreat work. You are now 58% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "58/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-059",
+      "title": "**kwargs",
+      "script": "Welcome to Python Basics, lesson 59: **kwargs.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef profile(**data):\n    print(data)\nprofile(name=\"John\", age=17)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: **kwargs is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n59 / 100 — 59% COMPLETE\n\nGreat work. You are now 59% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "59/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-060",
+      "title": "lambda",
+      "script": "Welcome to Python Basics, lesson 60: lambda.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndouble = lambda x: x * 2\nprint(double(5))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: lambda is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n60 / 100 — 60% COMPLETE\n\nGreat work. You are now 60% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "60/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-061",
+      "title": "Modules",
+      "script": "Welcome to Python Basics, lesson 61: Modules.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# my_tools.py\ndef add(a, b):\n    return a + b\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Modules is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n61 / 100 — 61% COMPLETE\n\nGreat work. You are now 61% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "61/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-062",
+      "title": "Importing Modules",
+      "script": "Welcome to Python Basics, lesson 62: Importing Modules.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nimport math\nprint(math.sqrt(25))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Importing Modules is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n62 / 100 — 62% COMPLETE\n\nGreat work. You are now 62% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "62/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-063",
+      "title": "Standard Library",
+      "script": "Welcome to Python Basics, lesson 63: Standard Library.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nimport random\nprint(random.randint(1, 10))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Standard Library is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n63 / 100 — 63% COMPLETE\n\nGreat work. You are now 63% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "63/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-064",
+      "title": "Useful Utility",
+      "script": "Welcome to Python Basics, lesson 64: Useful Utility.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nimport random\ndef roll():\n    return random.randint(1, 6)\nprint(roll())\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Useful Utility is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n64 / 100 — 64% COMPLETE\n\nGreat work. You are now 64% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "64/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-065",
+      "title": "Revision + Exam #4",
+      "script": "Welcome to Python Basics, lesson 65: Revision + Exam #4.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef add(a, b):\n    return a + b\nprint(add(2, 3))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Revision + Exam #4 is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n65 / 100 — 65% COMPLETE\n\nGreat work. You are now 65% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "65/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-066",
+      "title": "Reading Files",
+      "script": "Welcome to Python Basics, lesson 66: Reading Files.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfile = open(\"notes.txt\", \"r\")\ntext = file.read()\nfile.close()\nprint(text)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Reading Files is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n66 / 100 — 66% COMPLETE\n\nGreat work. You are now 66% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "66/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-067",
+      "title": "Writing Files",
+      "script": "Welcome to Python Basics, lesson 67: Writing Files.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfile = open(\"notes.txt\", \"w\")\nfile.write(\"Hello Python\")\nfile.close()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Writing Files is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n67 / 100 — 67% COMPLETE\n\nGreat work. You are now 67% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "67/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-068",
+      "title": "CSV",
+      "script": "Welcome to Python Basics, lesson 68: CSV.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nimport csv\nwith open(\"data.csv\", newline=\"\") as file:\n    reader = csv.reader(file)\n    for row in reader:\n        print(row)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: CSV is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n68 / 100 — 68% COMPLETE\n\nGreat work. You are now 68% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "68/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-069",
+      "title": "Exceptions",
+      "script": "Welcome to Python Basics, lesson 69: Exceptions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntry:\n    number = int(\"hello\")\nexcept ValueError:\n    print(\"That is not a number.\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Exceptions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n69 / 100 — 69% COMPLETE\n\nGreat work. You are now 69% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "69/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-070",
+      "title": "try/except",
+      "script": "Welcome to Python Basics, lesson 70: try/except.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntry:\n    age = int(input(\"Age: \"))\n    print(age)\nexcept ValueError:\n    print(\"Enter a number.\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: try/except is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n70 / 100 — 70% COMPLETE\n\nGreat work. You are now 70% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "70/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-071",
+      "title": "finally",
+      "script": "Welcome to Python Basics, lesson 71: finally.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntry:\n    number = int(\"10\")\nexcept ValueError:\n    print(\"Bad input\")\nfinally:\n    print(\"Finished\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: finally is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n71 / 100 — 71% COMPLETE\n\nGreat work. You are now 71% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "71/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-072",
+      "title": "Debugging",
+      "script": "Welcome to Python Basics, lesson 72: Debugging.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Debug by reading the error line first.\nnumber = 10\nprint(number + 5)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Debugging is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n72 / 100 — 72% COMPLETE\n\nGreat work. You are now 72% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "72/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-073",
+      "title": "OOP",
+      "script": "Welcome to Python Basics, lesson 73: OOP.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Object-oriented programming groups data and behavior together.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: OOP is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n73 / 100 — 73% COMPLETE\n\nGreat work. You are now 73% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "73/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-074",
+      "title": "Classes",
+      "script": "Welcome to Python Basics, lesson 74: Classes.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Dog:\n    pass\ndog = Dog()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Classes is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n74 / 100 — 74% COMPLETE\n\nGreat work. You are now 74% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "74/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-075",
+      "title": "Objects",
+      "script": "Welcome to Python Basics, lesson 75: Objects.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Dog:\n    pass\ndog = Dog()\nprint(type(dog))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Objects is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n75 / 100 — 75% COMPLETE\n\nGreat work. You are now 75% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "75/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-076",
+      "title": "__init__",
+      "script": "Welcome to Python Basics, lesson 76: __init__.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Dog:\n    def __init__(self, name):\n        self.name = name\ndog = Dog(\"Max\")\nprint(dog.name)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: __init__ is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n76 / 100 — 76% COMPLETE\n\nGreat work. You are now 76% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "76/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-077",
+      "title": "Instance Methods",
+      "script": "Welcome to Python Basics, lesson 77: Instance Methods.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Dog:\n    def bark(self):\n        print(\"Woof!\")\ndog = Dog()\ndog.bark()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Instance Methods is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n77 / 100 — 77% COMPLETE\n\nGreat work. You are now 77% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "77/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-078",
+      "title": "Inheritance",
+      "script": "Welcome to Python Basics, lesson 78: Inheritance.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Animal:\n    def speak(self):\n        print(\"Sound\")\nclass Dog(Animal):\n    pass\nDog().speak()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Inheritance is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n78 / 100 — 78% COMPLETE\n\nGreat work. You are now 78% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "78/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-079",
+      "title": "Encapsulation",
+      "script": "Welcome to Python Basics, lesson 79: Encapsulation.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass BankAccount:\n    def __init__(self):\n        self._balance = 0\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Encapsulation is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n79 / 100 — 79% COMPLETE\n\nGreat work. You are now 79% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "79/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-080",
+      "title": "OOP Project + Revision",
+      "script": "Welcome to Python Basics, lesson 80: OOP Project + Revision.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass Task:\n    def __init__(self, title):\n        self.title = title\n    def show(self):\n        print(self.title)\nTask(\"Study Python\").show()\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: OOP Project + Revision is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n80 / 100 — 80% COMPLETE\n\nGreat work. You are now 80% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "80/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-081",
+      "title": "Iterators",
+      "script": "Welcome to Python Basics, lesson 81: Iterators.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = iter([1, 2, 3])\nprint(next(numbers))\nprint(next(numbers))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Iterators is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n81 / 100 — 81% COMPLETE\n\nGreat work. You are now 81% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "81/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-082",
+      "title": "Generators",
+      "script": "Welcome to Python Basics, lesson 82: Generators.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef count_up_to(n):\n    i = 1\n    while i <= n:\n        yield i\n        i += 1\nfor number in count_up_to(3):\n    print(number)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Generators is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n82 / 100 — 82% COMPLETE\n\nGreat work. You are now 82% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "82/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-083",
+      "title": "Decorators",
+      "script": "Welcome to Python Basics, lesson 83: Decorators.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef log_call(func):\n    def wrapper():\n        print(\"Starting\")\n        func()\n        print(\"Finished\")\n    return wrapper\n\n@log_call\ndef hello():\n    print(\"Hello\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Decorators is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n83 / 100 — 83% COMPLETE\n\nGreat work. You are now 83% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "83/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-084",
+      "title": "map",
+      "script": "Welcome to Python Basics, lesson 84: map.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [1, 2, 3]\nprint(list(map(lambda x: x * 2, numbers)))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: map is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n84 / 100 — 84% COMPLETE\n\nGreat work. You are now 84% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "84/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-085",
+      "title": "filter",
+      "script": "Welcome to Python Basics, lesson 85: filter.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [1, 2, 3, 4]\nprint(list(filter(lambda x: x % 2 == 0, numbers)))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: filter is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n85 / 100 — 85% COMPLETE\n\nGreat work. You are now 85% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "85/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-086",
+      "title": "zip",
+      "script": "Welcome to Python Basics, lesson 86: zip.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnames = [\"Ali\", \"Mona\"]\nscores = [90, 85]\nprint(list(zip(names, scores)))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: zip is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n86 / 100 — 86% COMPLETE\n\nGreat work. You are now 86% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "86/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-087",
+      "title": "enumerate",
+      "script": "Welcome to Python Basics, lesson 87: enumerate.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnames = [\"Ali\", \"Mona\"]\nfor index, name in enumerate(names, start=1):\n    print(index, name)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: enumerate is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n87 / 100 — 87% COMPLETE\n\nGreat work. You are now 87% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "87/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-088",
+      "title": "Advanced Comprehensions",
+      "script": "Welcome to Python Basics, lesson 88: Advanced Comprehensions.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nnumbers = [1, 2, 3, 4]\nresult = [n*n for n in numbers if n % 2 == 0]\nprint(result)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Advanced Comprehensions is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n88 / 100 — 88% COMPLETE\n\nGreat work. You are now 88% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "88/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-089",
+      "title": "Project Architecture",
+      "script": "Welcome to Python Basics, lesson 89: Project Architecture.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Separate code into small modules.\n# Keep input, logic, and output easy to test.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Project Architecture is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n89 / 100 — 89% COMPLETE\n\nGreat work. You are now 89% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "89/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-090",
+      "title": "Advanced Exam",
+      "script": "Welcome to Python Basics, lesson 90: Advanced Exam.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Final review: combine functions, collections, files, and errors in one project.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Advanced Exam is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n90 / 100 — 90% COMPLETE\n\nGreat work. You are now 90% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "90/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-091",
+      "title": "Number Guessing Game",
+      "script": "Welcome to Python Basics, lesson 91: Number Guessing Game.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nimport random\nsecret = random.randint(1, 10)\nguess = int(input(\"Guess 1-10: \"))\nif guess == secret:\n    print(\"Correct!\")\nelse:\n    print(\"Try again.\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Number Guessing Game is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n91 / 100 — 91% COMPLETE\n\nGreat work. You are now 91% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "91/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-092",
+      "title": "To-Do List",
+      "script": "Welcome to Python Basics, lesson 92: To-Do List.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ntasks = []\ntasks.append(\"Study Python\")\ntasks.append(\"Practice\")\nfor task in tasks:\n    print(\"-\", task)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: To-Do List is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n92 / 100 — 92% COMPLETE\n\nGreat work. You are now 92% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "92/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-093",
+      "title": "File Organizer",
+      "script": "Welcome to Python Basics, lesson 93: File Organizer.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nfrom pathlib import Path\nfile = Path(\"notes.txt\")\nfile.rename(\"notes_old.txt\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: File Organizer is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n93 / 100 — 93% COMPLETE\n\nGreat work. You are now 93% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "93/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-094",
+      "title": "Quiz Game",
+      "script": "Welcome to Python Basics, lesson 94: Quiz Game.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nquestions = {\"2+2\": \"4\", \"Capital of Egypt\": \"Cairo\"}\nscore = 0\nfor question, answer in questions.items():\n    if input(question + \" \") == answer:\n        score += 1\nprint(score)\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Quiz Game is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n94 / 100 — 94% COMPLETE\n\nGreat work. You are now 94% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "94/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-095",
+      "title": "Expense Tracker",
+      "script": "Welcome to Python Basics, lesson 95: Expense Tracker.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nexpenses = [120, 50, 80]\nprint(\"Total:\", sum(expenses))\nprint(\"Average:\", sum(expenses) / len(expenses))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Expense Tracker is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n95 / 100 — 95% COMPLETE\n\nGreat work. You are now 95% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "95/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-096",
+      "title": "Complete Python Revision",
+      "script": "Welcome to Python Basics, lesson 96: Complete Python Revision.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Rebuild the core ideas:\n# variables -> conditions -> loops -> collections -> functions -> files -> OOP\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Complete Python Revision is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n96 / 100 — 96% COMPLETE\n\nGreat work. You are now 96% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "96/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-097",
+      "title": "Beginner→Advanced Challenge",
+      "script": "Welcome to Python Basics, lesson 97: Beginner→Advanced Challenge.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\ndef make_total(prices):\n    return sum(prices)\nprices = [10, 20, 30]\nprint(make_total(prices))\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Beginner→Advanced Challenge is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n97 / 100 — 97% COMPLETE\n\nGreat work. You are now 97% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "97/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-098",
+      "title": "Full Python Practice Exam",
+      "script": "Welcome to Python Basics, lesson 98: Full Python Practice Exam.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\n# Practice exam: predict outputs, fix errors, write functions, and build a small project.\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Full Python Practice Exam is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n98 / 100 — 98% COMPLETE\n\nGreat work. You are now 98% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "98/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-099",
+      "title": "Final Python Project",
+      "script": "Welcome to Python Basics, lesson 99: Final Python Project.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nclass ExpenseTracker:\n    def __init__(self):\n        self.expenses = []\n    def add(self, amount):\n        self.expenses.append(amount)\n    def total(self):\n        return sum(self.expenses)\n\ntracker = ExpenseTracker()\ntracker.add(50)\ntracker.add(25)\nprint(tracker.total())\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: Final Python Project is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n99 / 100 — 99% COMPLETE\n\nGreat work. You are now 99% through the Python course. Keep practicing, and I will see you in the next lesson.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "99/100",
+      "thumbnail": true
+    },
+    {
+      "id": "PY-100",
+      "title": "You Completed Python — Final Challenge",
+      "script": "Welcome to Python Basics, lesson 100: You Completed Python — Final Challenge.\n\nToday we will learn one idea step by step. First, look at the code on screen.\n\nprint(\"100 / 100 — 100% COMPLETE\")\nprint(\"This is not the end of your journey. This is only the beginning.\")\n\nLet's break it down. Start with the first line. Read it from left to right and ask what Python is being told to do. Then look at the value, name, condition, loop, function, or object we are using. Do not try to memorize the code. Understand what each part changes and why it is there.\n\nNow pause for a moment and predict what the program will do before we run it. Then run it and compare your prediction with the result. If your answer was wrong, that is completely fine. Debugging and correcting mistakes are part of learning programming.\n\nChallenge: change one small part of the example and run it again. Try a different value and predict the new result before you press Run.\n\nQuick recap: You Completed Python — Final Challenge is the idea we focused on today. You should now be able to recognize it, explain the main parts, and use a small example yourself.\n\n100 / 100 — 100% COMPLETE\n\nYou made it. This is not the end of your journey. This is only the beginning. Keep coding, keep building, and take the next step.",
+      "orientation": "landscape",
+      "voice": {
+        "type": "preset",
+        "id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678"
+      },
+      "showText": true,
+      "language": "en",
+      "captions": true,
+      "progress": "100/100",
+      "thumbnail": true
+    }
+  ]
+}
